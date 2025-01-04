@@ -233,10 +233,13 @@ h3 {
     border-bottom: 1px solid var(--secondary-color);
 }
 
+
 .experience-header {
     margin-bottom: 10px;
 }
-
+.experience-description{
+    margin-bottom: 10px;
+}
 .company {
     color: var(--secondary-color);
     font-weight: bold;
